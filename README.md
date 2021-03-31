@@ -1,4 +1,4 @@
-# Walmart-Retail
+# Walmart-Retail-Hackathon
 Customer   engagement   is   the   emotional   connection   between   a customer and a brand. Highly engaged customers buy more, promote more, and demonstrate more loyalty. ​
 
 Technology has changed the way by which B2B or B2C companies work to engage customers.​
